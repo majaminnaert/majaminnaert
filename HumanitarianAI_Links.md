@@ -2,9 +2,22 @@
 
 For now, this is just a list of interesting links, I will be maintaining and updating this file as I learn more about this subfield of data science.
 
-The first link is a warmly recommended article that goes into the coöperative context of applying AI in the real world, with the humanitarian applications as focus.
+Happy reading, don't forget to check back for updates soon and don't forget to be awesome!
 
-Happy reading!
+## Open Source Projects
+
+The great thing about open source projects is they can be used for a very bottom up design approach. Politically, I believe in self-organization, DIY,
+mutual aid, and freely sharing resources and information that help everyone make their lives and technology better. This is close to what some would call anarchist,
+and I do believe the way open source projects are originally conceived of is very compatible with this. For me, in practice it means ensuring not just the 
+participation, but the self-governing role of the target user audience in the creation process. This applies not only to technology, but to all intervention that affect people.
+
+The organization "Humanitarian AI" is still new to me, but so far lies the closest to this way of working and approaching the creation of technologies and solutions. They're website also links to open source resources.
+
+[Humanitarian AI website](https://humanitarianai.org/)
+
+## Big Player Projects
+
+The following links are themed towards the more big, institutional top-down actors in humanitarian AI. They may prove interesting to follow up on and get to know. Often the vision documents from the UN, like the article "From big data to humanitarian-in-the-loop algorithms," are rich in ideas and insights that may inspire you to develop your own vision.
 
 [UNHCR From big data to humanitarian-in-the-loop algorithms](https://www.unhcr.org/innovation/big-data-humanitarian-loop-algorithms/)
 
