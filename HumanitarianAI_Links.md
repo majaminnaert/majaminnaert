@@ -4,6 +4,12 @@ For now, this is just a list of interesting links, I will be maintaining and upd
 
 Happy reading, don't forget to check back for updates soon and don't forget to be awesome!
 
+## Background Resources
+
+This section will include links that point to content that clarifies frameworks, models and technologies that are relevant to reflections and actions of humanitarian AI.
+
+[Society-in-the-loop](https://medium.com/mit-media-lab/society-in-the-loop-54ffd71cd802)
+
 ## Open Source Projects
 
 The great thing about open source projects is they can be used for a very bottom up design approach. Politically, I believe in self-organization, DIY,
