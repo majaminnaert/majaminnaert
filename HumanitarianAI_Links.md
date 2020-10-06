@@ -19,13 +19,22 @@ The organization "Humanitarian AI" is still new to me, but so far lies the close
 
 The following links are themed towards the more big, institutional top-down actors in humanitarian AI. They may prove interesting to follow up on and get to know. Often the vision documents from the UN, like the article "From big data to humanitarian-in-the-loop algorithms," are rich in ideas and insights that may inspire you to develop your own vision.
 
+### NGO's
+
+This is a section for NGO-related links in the theme of humanitarian AI.
+
+### United Nations
+
+The United Nations takes a special place in the realm of humanitarian organizations. More context will be added soon.
+
 [UNHCR From big data to humanitarian-in-the-loop algorithms](https://www.unhcr.org/innovation/big-data-humanitarian-loop-algorithms/)
-
-[MS AI for Humanitarian Action](https://www.microsoft.com/en-us/ai/ai-for-humanitarian-action)
-
-[Humanitarian AI website](https://humanitarianai.org/)
 
 [UNHCR Innovation Hub](https://www.unhcr.org/innovation/)
 
 [UN Global Pulse Website](https://www.unglobalpulse.org/)
 
+### Companies and other filanthropist big guys
+
+This section will include links connected to commercial organizations and funds and foundations grown out of big fortune initiatives. They are not quite my cup of tea, but it's good to know what's out there.
+
+[MS AI for Humanitarian Action](https://www.microsoft.com/en-us/ai/ai-for-humanitarian-action)
