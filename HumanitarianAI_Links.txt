@@ -1,8 +1,5 @@
-https://www.unhcr.org/innovation/big-data-humanitarian-loop-algorithms/
-https://www.microsoft.com/en-us/ai/ai-for-humanitarian-action
-https://humanitarianai.org/
-https://www.unhcr.org/innovation/
-https://www.unglobalpulse.org/
-https://www.crunchbase.com/organization/humanitarian-ai
-https://humanitarianai.org/projects.html
-https://www.linkedin.com/company/humanitarian-ai/
+[UNHCR From big data to humanitarian-in-the-loop algorithms](https://www.unhcr.org/innovation/big-data-humanitarian-loop-algorithms/)
+[MS AI for Humanitarian Action](https://www.microsoft.com/en-us/ai/ai-for-humanitarian-action)
+[Humanitarian AI website](https://humanitarianai.org/)
+[UNHCR Innovation Hub](https://www.unhcr.org/innovation/)
+[UN Global Pulse Website](https://www.unglobalpulse.org/)
